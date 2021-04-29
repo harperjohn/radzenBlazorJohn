@@ -1,0 +1,500 @@
+   16  ls fg
+   17  notepad .gitignore
+   18  git status
+   19  git add *
+   20  git status
+   21  git rm --cached *
+   22  git rm --cached * -r
+   23  git status
+   24  git restore *
+   25  git status
+   26  git restore --staged
+   27  git restore --staged *
+   28  git status
+   29  ls
+   30  ls jh
+   31  ls
+   32  ls fj
+   33  ls fg
+   34  cd fg
+   35  cd FelipeGavilan/
+   36  ls
+   37  git status
+   38  cd .
+   39  cd ..
+   40  cd ..
+   41  ls
+   42  ls 0al
+   43  ls -al
+   44  git status
+   45  ls > samplefile.txt
+   46  cd ~
+   47  pwd
+   48  ls > samplefile.txt
+   49  ls > sampleFile.txt
+   50  ls sampl*
+   51  cat samplefile.txt 
+   52  git clone https://github.com/servicetitan/Stl.Fusion.Samples.git
+   53  cd ..
+   54  ls
+   55  cd Stl.Fusion.Samples/
+   56  git status
+   57  git diff
+   58  git status
+   59  git reset --hard
+   60  git status
+   61  git pull
+   62  git status
+   63  git status
+   64  git checkout -b get022521
+   65  cd ..
+   66  git status
+   67  pwd
+   68  ls
+   69  cd ..
+   70  ls
+   71  git status
+   72  cd fg
+   73  ls
+   74  git status
+   75  ls
+   76  cd FelipeGavilan/
+   77  dir
+   78  ls
+   79  cd ..
+   80  cd ..
+   81  ls
+   82  git status
+   83  ls
+   84  ls -al
+   85  notepad .gitignore
+   86  notepad .gitignore&
+   87  git status
+   88  git add *
+   89  git status
+   90  git add .gitignore
+   91  git status
+   92  git commit -m update
+   93  git status
+   94  git remote -v
+   95  ls
+   96  mkdir test
+   97  cd test
+   98  git clone \\NASHOME1\homes\johnnas\gitRepos\test.git
+   99  git clone \\NASHOME1\homes\johnnas\gitRepos\x.git
+  100  git clone \\NASHOME1\homes\johnnas\gitRepos\x.git
+  101  cmd
+  102  git clone //nashome1/homes/johnnas/gitrepos/x.git
+  103  git clone //nashome1/homes/johnnas/gitrepos/xbare.git
+  104  ls
+  105  cd x
+  106  cd ..
+  107  cd xbare/
+  108  cd ..
+  109  ls
+  110  cd x
+  111  git status
+  112  git remote -v
+  113  pwd
+  114  cd 
+  115  cd ..
+  116  ls
+  117  cd john
+  118  ls
+  119  pwd
+  120  ls
+  121  cd dev020821/
+  122  ls
+  123  cd test
+  124  ls
+  125  mkdir local
+  126  cd local
+  127  git init
+  128  ls > x.dat
+  129  git add x.dat
+  130  git status
+  131  git commit
+  132  ls
+  133  git status
+  134  git remote -v
+  135  git remote add
+  136  git remote add origin //nashome1/homes/johnnas/gitrepos/x.git
+  137  git status
+  138  git push
+  139  git push --set-upstream origin master
+  140  git remote add origin //nashome1/homes/johnnas/gitrepos/xbare.git
+  141  git remore remove origin
+  142  git remove remove origin
+  143  git remove remote origin
+  144  git remote remove orign
+  145  git remote remove origin
+  146  git remote add origin //nashome1/homes/johnnas/gitrepos/xbare.git
+  147  git status
+  148  git push --set-upstream origin master
+  149  git remote show origin
+  150  git remote -v
+  151  git remote -add backup //nashome/homes/johnnas/gitrepos/xbare2.git
+  152  git remote add backup //nashome/homes/johnnas/gitrepos/xbare2.git
+  153  git push
+  154  git push backup
+  155  git remote -v
+  156  git remote set-url -add --push backup //nashome/homes/johnnas/gitrepos/xbare2.git
+  157  git remote set-url --add --push backup //nashome/homes/johnnas/gitrepos/xbare2.git
+  158  git remote show origin
+  159  git remote set-url --add --push origin //nashome/homes/johnnas/gitrepos/xbare2.git
+  160  git remote show origin
+  161  git push
+  162  git remote set-url --add --push origin //nashome1/homes/johnnas/gitrepos/xbare2.git
+  163  git push
+  164  git remote -v
+  165  git remove -remove backup
+  166  git remote -remove backup
+  167  git remote
+  168  git remote -v
+  169  git remote --remove backup
+  170  git remote remove backup
+  171  git remote -v
+  172  git remote remove origin
+  173  git remote -v
+  174  git remote add origin  //nashome1/homes/johnnas/gitrepos/xbare.git
+  175  git remote -v
+  176  git remote set-url --all --push origin  //nashome1/homes/johnnas/gitrepos/xbare2.git
+  177  git remote set-url --add --push origin  //nashome1/homes/johnnas/gitrepos/xbare2.git
+  178  git remote show origin
+  179  git remote -v
+  180  git remote set-url --add --push origin  //nashome1/homes/johnnas/gitrepos/xbare.git
+  181  git remote -v
+  182  git push
+  183  git push --set-upstream origin master
+  184  ls
+  185  ls -al > x.dat
+  186  git status
+  187  git commit -m update
+  188  git commit -m "update"
+  189  git add
+  190  git add *
+  191  git status
+  192  git commit -m "update"
+  193  git status
+  194  git push
+  195  git status
+  196  ls
+  197  git checkout -b mine
+  198  git push
+  199  git remote -v
+  200  git remote add branch  //nashome1/homes/johnnas/gitrepos/branches.git
+  201  git remote -v
+  202  git push -u branch mine
+  203  git push -u branch mine
+  204  git status
+  205  ls
+  206  notepad x.dat
+  207  git status
+  208  git add *
+  209  git status
+  210  git commit -m "add"
+  211  git status
+  212  git push branch mine
+  213  git push branch mine
+  214  ls >x.dat
+  215  git status
+  216  git add *
+  217  git commit -m "update"
+  218  git status
+  219  git psh
+  220  git push
+  221  git checkout master
+  222  git checkout mine
+  223  git remote -v
+  224  net use
+  225  git status
+  226  exit
+  227  mkdir xbare2.git
+  228  cd xbare2.git/
+  229  git init -bare
+  230  pwd
+  231  cd ..
+  232  mkdir branches.git
+  233  cd branches.git/
+  234  git init bare
+  235  ls
+  236  ls -al
+  237  git init --bare
+  238  git init x
+  239  git init x.git
+  240  git init -bare xbare.git
+  241  pwd
+  242  ls
+  243  mkdir xx
+  244  cd xx
+  245  git init
+  246  ls
+  247  ls -al
+  248  ls
+  249  cd ~
+  250  ls
+  251  cd dev020821/
+  252  ls
+  253  cd test
+  254  ls
+  255  cd x
+  256  git remote -v
+  257  pwd
+  258  git init -bare
+  259  pwd
+  260  git status
+  261  git merge master
+  262  git status
+  263  git checkout master
+  264  git fetch
+  265  git status
+  266  git checkout get022521 
+  267  git push 
+  268  git remote -v
+  269  git push nas
+  270  git pull
+  271  git pull nas 
+  272  git status
+  273  git push
+  274  git push nas
+  275  git pull nas get022521 
+  276  git status
+  277  git push nas
+  278  cd ..
+  279  cd ..
+  280  dir
+  281  mkdir junk2
+  282  cd junk2
+  283  git clone file:r:/stlfusion/samples.git
+  284  git clone file://r:/stlfusion/samples.git
+  285  git remote -v
+  286  git branch
+  287  ls
+  288  cd samples/
+  289  git remote -v
+  290  git branch
+  291  git branch -a
+  292  git checkout get022521
+  293  git remote -v
+  294  ls
+  295  notepad x.dat
+  296  git status
+  297  git add *
+  298  git status
+  299  git commit -m "update"
+  300  git ush
+  301  git push
+  302  history
+  303  git remote -v
+  304  git status
+  305  git branch
+  306  git checkout master
+  307  git status
+  308  git fetch
+  309  git status
+  310  git pull
+  311  git status
+  312  git branch
+  313  git diff master get022521 
+  314  git branch
+  315  git checkout get022521 
+  316  git merger master
+  317  git merge master
+  318  git checkout master
+  319  git diff master get022521 
+  320  git status
+  321  dir r
+  322  dir r:
+  323  net use
+  324  ls r:
+  325  r:
+  326  git remote -v
+  327  git remote add nas r:/stlfusion/samples.git
+  328  git remote -v
+  329  git checkout get022521 
+  330  git remote -v
+  331  git push nas
+  332  git checkout master
+  333  git push nas
+  334  pwd
+  335  cd ..
+  336  dir
+  337  cd ..
+  338  dir
+  339  mkdir junk
+  340  cd junk
+  341  cmd
+  342  net use
+  343  ls //nashome1
+  344  git clone file:////nashome1/home/git-repos/stlfusion/samples.git
+  345  git remote -v
+  346  dir
+  347  cd samples
+  348  git remote -v
+  349  git status
+  350  dir
+  351  git branch
+  352  git branch -a
+  353  git checkout remotes/origin/get022021
+  354  git checkout get022521
+  355  git status
+  356  ls > x.dat
+  357  git status
+  358  git add x.dat 
+  359  git commit -m "add"
+  360  git status
+  361  git branch
+  362  dir
+  363  git remote -v
+  364  git status
+  365  git push
+  366  history
+  367  git status
+  368  git fetch
+  369  git status
+  370  git pull
+  371  git status
+  372  git checkout get022521 
+  373  git status
+  374  fetch
+  375  git fetch
+  376  fetch
+  377  git status
+  378  git pull
+  379  git remote -v
+  380  git pull nas
+  381  git pull nas get022521
+  382  ls
+  383  cd ..
+  384  dir
+  385  git pull nas get022521
+  386  git remote -v
+  387  git status
+  388  git status
+  389  git add cSharpCookbooks/
+  390  git status
+  391  git commit -m "add"
+  392  git status
+  393  git push
+  394  git status
+  395  exit
+  396  git clone https://github.com/choudhurynirjhar/sqlitedapper-demo.git
+  397  ls
+  398  cd sqlitedapper-demo/
+  399  ls
+  400  exit
+  401  git status
+  402  git -v
+  403  git --version
+  404  git switch -c b030821
+  405  git status
+  406  git status
+  407  exit
+  408  git status
+  409  git add *
+  410  git status
+  411  cd ..
+  412  cd ..
+  413  git status
+  414  git add *
+  415  git status
+  416  git commit -m "use sqlite"
+  417  git statu
+  418  git status
+  419  git checkout main
+  420  git status
+  421  git checkout b030821 
+  422  exit
+  423  git clone https://github.com/adamfoneil/BlazorStarter.git
+  424  exit
+  425  git clone https://github.com/adamfoneil/BlazorStarter.git
+  426  git status
+  427  git fetch
+  428  cd ..
+  429  cd ..
+  430  dir
+  431  pwd
+  432  git clone https://github.com/adamfoneil/BlazorAO.git
+  433  git clone 
+  434  git clone https://github.com/Garderoben/MudBlazor.git
+  435  git clone https://github.com/aksoftware98/mudblazorsample.git
+  436  git clone https://github.com/blazorhero/CleanArchitecture.git
+  437  cd ..
+  438  pwd
+  439  pwd
+  440  ls
+  441  cd ..
+  442  ls
+  443  git status
+  444  git checkout -b john
+  445  git status
+  446  git add *
+  447  git status
+  448  git commit - m "update"
+  449  git commit -m "update"
+  450  git status
+  451  exit
+  452  cd ..
+  453  git status
+  454  ls
+  455  git status
+  456  git add *
+  457  git status
+  458  cd ..
+  459  jpwd
+  460  pwd
+  461  ls
+  462  cd ..
+  463  ls
+  464  git add *
+  465  git status
+  466  git commint -m "update"
+  467  git status
+  468  git commit -m "update"
+  469  git status
+  470  checkout master
+  471  git branch
+  472  git checkout main
+  473  git status
+  474  git merge upstream/main
+  475  git pull upstream/main
+  476  git status
+  477  git remote -v
+  478  git merge origin/main
+  479  git fetch
+  480  git diff
+  481  git pull
+  482  git status
+  483  git lig
+  484  git log
+  485  git diff last version:HEAD
+  486  git diff @^
+  487  git difftool @^
+  488  git difftool @^
+  489  git difftool @^
+  490  git branch
+  491  git status
+  492  git checkout john
+  493  git push
+  494  git push --set-upstream origin2 john
+  495  git status
+  496  git checkout master
+  497  git checkout main
+  498  git checkout john
+  499  git show
+  500  ls
+  501  ls -al
+  502  history
+  503  git checkout -b john
+  504  git status
+  505  git add *
+  506  git status
+  507  git commit -m "add"
+  508  git status
+  509  git remote -v
+  510  git remote add john https://github.com/harperjohn/radzenBlazorJohn
+  511  git remote -v
+  512  git push john john
+  513  git push john john
+  514  git remote -v
+  515  history >hist.txt
